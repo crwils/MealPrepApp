@@ -48,11 +48,11 @@ You are able to start the app by downloading and using the ExpoGo app on your iO
 <ol>
   <li>Fork this repository.</li>
   <li>Ensure you have Expo Command Line Interface installed: <pre><code>$ npm install --global expo-cli </code></pre> </li>
-  <li>Navigate to the MealPrepApp/Client directory in terminal: <pre><code>$ npm install </code></pre></li>
+  <li>Navigate to the <b>MealPrepApp/Client</b> directory in terminal: <pre><code>$ npm install </code></pre></li>
   <li>Inside MealPrepApp/Server, open in your preferred IDE. If using IntelliJ, run: <pre><code>$ idea . </code></pre></li>
-  <li>In IntelliJ, navigate to src/test/java/com.meal_prep.MealPrepApp and run all test files (FoodTests, Loaders, OtherTests). </li>
-  <li>Navigate to src/main/java/com.meal_prep.MealPrepApp/MealPrepAppApplication and run the file to connect to the server. </li>
-  <li>Navigate to MealPrepApp/Client directory and open in your preferred IDE. If using VS Code, you can do this by running: <pre><code>$ open . </code></pre> then run: <pre><code> npm start </code></pre> </li>
+  <li>In IntelliJ, navigate to <b>src/test/java/com.meal_prep.MealPrepApp</b> and run all test files (FoodTests, Loaders, OtherTests). </li>
+  <li>Navigate to <b>src/main/java/com.meal_prep.MealPrepApp/MealPrepAppApplication</b> and run the file to connect to the server. </li>
+  <li>Navigate to <b>MealPrepApp/Client</b> directory and open in your preferred IDE. If using VS Code, you can do this by running: <pre><code>$ open . </code></pre> then run: <pre><code> npm start </code></pre> </li>
   <li>Metro Bundler should open automatically in your browser. Scan the QR code with your mobile camera to run open automatically in Expo Go</li>
 </ol>
 
