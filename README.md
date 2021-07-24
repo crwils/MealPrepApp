@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/4RRcXcq/preparado-logo.png" alt="preparado-logo" border="0"></a>
+  <a href="https://ibb.co/qmWrPcT"><img src="https://i.ibb.co/zP740Bq/Screenshot-2021-07-24-at-14-23-47.png" alt="Screenshot-2021-07-24-at-14-23-47" border="0"></a>
 </div>
 
 <b><h1 align='center'> Preparado 🍴 </h1></b>
